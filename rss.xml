@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[measurements]]></title>
-        <description><![CDATA[measurements]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[measurements.io]]></title>
+        <description><![CDATA[measurements.io]]></description>
+        <link>https://thegrid.ai/measurements/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 15:33:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 15:39:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/measurements/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello World]]></title>
-            <description><![CDATA[<article><h1>Hello World</h1><p>This is a test</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b370309-eb34-438f-a2ac-74f688f645ce.jpg"></article>]]></description>
-            <link>undefinedhello-world/index.html</link>
+            <description><![CDATA[<article><h1>Hello World</h1><p>null</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/74e07117c777e67faac64db6f2390dee785bf512.jpg"></article>]]></description>
+            <link>https://thegrid.ai/measurements/hello-world/index.html</link>
             <guid isPermaLink="false">7498e9cc-a198-4fc3-9bd7-0287c44a7ac8</guid>
-            <pubDate>Fri, 04 Mar 2016 15:33:56 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2016 15:39:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
