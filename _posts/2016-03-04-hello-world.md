@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: This is a test
-datePublished: '2016-03-04T15:39:13.254Z'
-dateModified: '2016-03-04T15:38:01.250Z'
-title: Hello World
+description: 'A world in constant flux, and changing everything we know.'
+datePublished: '2016-03-04T15:46:47.309Z'
+dateModified: '2016-03-04T15:46:39.530Z'
+title: A Disruptive World
 author: []
 sourcePath: _posts/2016-03-04-hello-world.md
 published: true
