@@ -4,14 +4,14 @@
         <description><![CDATA[measurements.io]]></description>
         <link>https://thegrid.ai/measurements/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 15:39:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 15:48:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/measurements/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Hello World]]></title>
-            <description><![CDATA[<article><h1>Hello World</h1><p>null</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/74e07117c777e67faac64db6f2390dee785bf512.jpg"></article>]]></description>
+            <title><![CDATA[A Disruptive World]]></title>
+            <description><![CDATA[<article><h1>A Disruptive World</h1><p>A world in constant flux, and changing everything we know.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/74e07117c777e67faac64db6f2390dee785bf512.jpg"></article>]]></description>
             <link>https://thegrid.ai/measurements/hello-world/index.html</link>
             <guid isPermaLink="false">7498e9cc-a198-4fc3-9bd7-0287c44a7ac8</guid>
-            <pubDate>Fri, 04 Mar 2016 15:39:13 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2016 15:46:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
