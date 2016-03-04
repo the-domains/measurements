@@ -2,6 +2,7 @@ name: measurements
 favicon: null
 layout_spectrum: 0.5063003352843225
 typography_spectrum: 0.5063944908324629
+title: measurements.io
 cta:
   domain: null
   bucket: null
